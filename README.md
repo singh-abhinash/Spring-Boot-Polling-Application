@@ -15,7 +15,7 @@ This Java project offers a `RESTful API` with basic authentication for Admin and
 Only one vote per day per person, a person can change his vote until 11 a.m.
 User chooses restaurant based upon today's dish.
 
- **Here you can find task and project requirements <a href="https://github.com/singh-abhinash/Spring-Boot-Polling-Application/bash.md">bash.md</a>**
+ **Here you can find task and project requirements <a href="https://github.com/singh-abhinash/Spring-Boot-Polling-Application/blob/master/Task.md">Task.md</a>**
 
  **Technology stack:**
  - Spring Boot
@@ -70,7 +70,7 @@ Designed for two types of users: Admins and Users.
 5. Access the application at [http://localhost:8080](http://localhost:8080).
 
 6. Use Postman to test this API, you can add it from Google Chrome Web Store or use another REST Client Tool 
-on your own. See also examples of bash commands <a href="https://github.com/singh-abhinash/Spring-Boot-Polling-Application/bash.md">bash.md</a>
+on your own. See also examples of bash commands <a href="https://github.com/singh-abhinash/Spring-Boot-Polling-Application/blob/master/bash.md">bash.md</a>
 
 ## Contributing
 

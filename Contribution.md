@@ -1,8 +1,8 @@
-# Spring Boot JWT Authentication
+# Spring Boot Polling Application
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blueviolet.svg)](https://github.com/singh-abhinash/Implementation-of-JWT-Authentication.git)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blueviolet.svg)](https://github.com/singh-abhinash/Spring-Boot-Polling-Application.git)
 
-👯 I'm looking for collaborate on the Spring Boot JWT Authentication project. Feel free to check out the [GitHub Repository](https://github.com/singh-abhinash/Implementation-of-JWT-Authentication.git) for more details.
+👯 I'm looking for collaborate on the Spring Boot Polling Application project. Feel free to check out the [GitHub Repository](https://github.com/singh-abhinash/Spring-Boot-Polling-Application/blob.git) for more details.
 
 ## How to Contribute
 
@@ -13,6 +13,8 @@ If you're interested in contributing to this project, follow these steps:
 3. Create a new branch for your changes: `git checkout -b feature/your-feature`.
 4. Make your changes and commit them: `git commit -m "Description of changes"`.
 5. Push your changes to your forked repository: `git push origin feature/your-feature`.
-6. Open a pull request on the [main repository](https://github.com/singh-abhinash/Implementation-of-JWT-Authentication.git).
+6. Open a pull request on the [main repository](https://github.com/singh-abhinash/Spring-Boot-Polling-Application.git).
 
 Let's work together to make this project even better!
+
+##HAPPY CODING!! - ABHINASH SINGH
