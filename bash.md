@@ -1,4 +1,4 @@
-##**Use Git Bash as a CURL command-line tool. Lets see CURL example.
+##Use Git Bash as a CURL command-line tool. Lets see CURL example.
 
 
 ##FOR ADMIN:
